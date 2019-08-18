@@ -1,0 +1,42 @@
+body {
+	font-family: 'Red Hat Display', sans-serif;
+	background-color: #a3e3e3;
+}
+
+#banner, #menu {
+	background-color: #a3c8e3;
+}
+
+#menu-row {
+	padding: 5pt;
+	position: absolute;
+}
+
+.menu-item {
+	padding: 5pt;
+	width: 100%;
+}
+
+#contact-links-list {
+	margin-bottom: 5pt;
+}
+
+.contact-link {
+	background-color: #a3c8e3;
+	margin-bottom: 2pt;
+}
+
+td {
+	padding: 5pt;
+	margin: 3pt;
+}
+
+thead {
+	font-weight: bold;
+}
+
+/*
+#menu-lista {
+	position: fixed;
+}
+*/
