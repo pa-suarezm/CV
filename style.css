@@ -1,10 +1,18 @@
 body {
 	font-family: 'Red Hat Display', sans-serif;
 	background-color: #a3e3e3;
+	width: 100%;
 }
 
-#banner, #menu {
+#banner {
 	background-color: #a3c8e3;
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+#menu {
+	background-color: #a3c8e3;
+	margin-top: 0px;
 }
 
 #menu-row {
@@ -35,8 +43,18 @@ thead {
 	font-weight: bold;
 }
 
-/*
+
 #menu-lista {
 	position: fixed;
+	top: 35%;
 }
-*/
+
+
+#profile {
+	max-width: 30%;
+	height: auto;
+}
+
+#content {
+	margin-top: 5px;
+}
