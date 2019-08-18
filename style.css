@@ -12,6 +12,10 @@ body {
 	height: auto;
 }
 
+.logos:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
 #banner {
 	background-image: url("https://az592774.vo.msecnd.net/pgl-release/Images/ArticleImages/18/18268.jpg");	
 	background-color: #a3c8e3;
@@ -45,7 +49,15 @@ body {
 
 .menu-item {
 	padding: 5pt;
+	width: 120%;
+}
+.own-link {
 	width: 100%;
+	background-color: rgba(17, 122, 139, 1);
+}
+
+.own-link:hover {
+	background-color: rgba(17, 122, 139, 0.5);
 }
 
 #contact-links-list {
@@ -69,7 +81,8 @@ thead {
 
 #menu-lista {
 	position: fixed;
-	top: 35%;
+	top: 37%;
+	left: 3%;
 }
 
 
