@@ -1,2 +1,0 @@
-# Pablo Suárez
-En este repositorio está desplegada mi página web personal y se puede ver en <a href="https://pa-suarezm.github.io">esta dirección</a>. El repositorio de desarrollo es <a href="https://github.com/pa-suarezm/Personal-Website-in-React">este</a>.
