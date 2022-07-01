@@ -21,7 +21,7 @@
         "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
       },
       {
-        "school":"Ada School",
+        "school":"Ada School - Certificado",
         "degree":"Pragmatic Technical Lead + React",
         "graduated":"Octubre 2021",
         "description":"Tomé este curso mientras trabajaba en Imagine Apps como Desarrollador Fullstack Junior con el fin de entrenarme para el siguiente cargo donde tuve responsabilidades de liderazgo de equipos y de liderazgo técnico como Desarrollador Fullstack Semisenior."
@@ -41,7 +41,7 @@
         "description":"This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
       },
       {
-        "school":"Ada School",
+        "school":"Ada School - Certificate",
         "degree":"Pragmatic Technical Lead + React",
         "graduated":"October 2021",
         "description":"I took this course while I was working at Imagine Apps as a Junior Fullstack Dev in order to prepare myself for my next role in the company (Ssr. Fullstack Dev) where I had responsabilities geared towards team and tech leadership."
@@ -94,7 +94,7 @@
       },
       {
         "name":"Unreal/Blueprint/C++",
-        "level":"20%"
+        "level":"25%"
       },
       {
         "name":"Git",
@@ -143,7 +143,7 @@
       },
       {
         "title":"Boom Away",
-        "category":"Proyecto de grado. Hicimos un videojuego aplicando técnicas de desarrollo ágil de software.",
+        "category":"Proyecto de grado. Hicimos un videojuego en Unity aplicando técnicas de desarrollo ágil de software.",
         "image":"boom-away.png",
         "url":"https://boomawayinc.itch.io/"
       },
@@ -193,7 +193,7 @@
       },
       {
         "title":"Boom Away",
-        "category":"Graduation project. We made a videogame using Agile Software Development techniques.",
+        "category":"Graduation project. We made a videogame in Unity using Agile Software Development techniques.",
         "image":"boom-away.png",
         "url":"https://boomawayinc.itch.io/"
       },
