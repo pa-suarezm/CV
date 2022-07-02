@@ -49,6 +49,24 @@
     ],
     "workEs":[
       {
+        "company": "BW Studios",
+        "title": "Desarrollador Backend Unity",
+        "years": "Abril 2022 - actualidad",
+        "description": ""
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Desarrollador Fullstack Semisenior",
+        "years": "Diciembre 2021 - Abril 2022",
+        "description": "Desarrollé, probé, ajusté diseños, e iteré sobre el proyecto Feat. En este cargo tuve un rol importante de liderazgo en mi equipo de desarrollo el cual se venía cultivando desde mi anterior cargo como Desarrollador Jr. También asistí, aconsejé, y guié a compañeros nuevos en la empresa para que así se familiarizaran con los procesos internos de desarrollo así como con dudas más técnicas de sus propios proyectos."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Desarrollador Fullstack Junior",
+        "years": "Diciembre 2020 - Diciembre 2021",
+        "description": "Diseñé, desarrollé, probé, e iteré sobre el proyecto Simulador de consultas en conjunto con el departamento de medicina de la Universidad de Los Andes; estuve a cargo del diseño del sistema y su desarrollo completo desde el primer día. Este proyecto tiene un alcance de más de 800 estudiantes de pregrado y 250 profesores del departamento de medicina. Asimismo, diseñé, desarrollé, probé, e iteré sobre el proyecto Feat; uno de los proyectos de mayor complejidad en Imagine Apps en el cual fui asignado como desarrollador principal."
+      },
+      {
         "company":"Universidad de los Andes",
         "title":"Monitor",
         "years":"Semestres 2017-2, 2018-1, 2020-1, 2020-2",
@@ -68,6 +86,24 @@
       }
     ],
     "workEn":[
+      {
+        "company": "BW Studios",
+        "title": "Backend Unity Developer",
+        "years": "April 2022 (current role)",
+        "description": ""
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Ssr. Fullstack Developer",
+        "years": "December 2021 - April 2022",
+        "description": "Developed, tested, adjusted designs, and iterated over the Feat project. As a semi-senior dev. I had an important role as a leader within my development team. I also had a mentorship role in which I assisted, advised, and overall guided new coworkers to help them get familiar and comfortable in the company and with our development processes. Finally, this role had me supporting my coworkers with more technical aspects of their own projects by helping them understand what’s expected of them and how to best approach their tasks."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Jr. Fullstack Developer",
+        "years": "December 2020 - December 2021",
+        "description": "Designed, developed, tested, and iterated over the Consultation Simulator project in conjunction with the University of the Andes’ Med School. I was in charge of the system’s design and its full development from day 1. This project has a reach of over 800 undergraduate students and 250 professors. Moreover, I designed, developed, tested, and iterated on the Feat project as lead developer; one of the biggest and most complex projects within Imagine Apps."
+      },
       {
         "company":"University of the Andes",
         "title":"Teaching Assistant",
