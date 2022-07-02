@@ -130,6 +130,12 @@
   "portfolio":{
     "projectsEs": [
       {
+        "title": "Papumba",
+        "category": "App para iOS y Android hecha en Unity donde niños de 2 a 7 años gozan de juegos, libros, videos, y demás recursos que les permitan desarrollarse y aprender.",
+        "image": "papumba.png",
+        "url": "https://www.papumba.com/"
+      },
+      {
         "title": "Feat",
         "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
         "image": "feat.png",
@@ -179,6 +185,12 @@
       }
     ],
     "projectsEn": [
+      {
+        "title": "Papumba",
+        "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
+        "image": "papumba.png",
+        "url": "https://www.papumba.com/"
+      },
       {
         "title": "Feat",
         "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
