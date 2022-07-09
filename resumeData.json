@@ -141,10 +141,6 @@
         "level":"85%"
       },
       {
-        "name": "Node.js",
-        "level": "80%"
-      },
-      {
         "name":"HTML/CSS, Bootstrap",
         "level":"90%"
       },
@@ -173,6 +169,12 @@
   },
   "portfolio":{
     "projectsEs": [
+      {
+        "title": "Asteroids",
+        "category": "Juego hipercasual de arcade hecho en Unity. ¡Ya disponible en la Google Play Store! El jugador controla la nave inclinando el teléfono y tocando la pantalla para disparar.",
+        "image": "asteroids.png",
+        "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
+      },
       {
         "title": "Papumba",
         "category": "App para iOS y Android hecha en Unity donde niños de 2 a 7 años gozan de juegos, libros, videos, y demás recursos que les permitan desarrollarse y aprender.",
@@ -229,6 +231,12 @@
       }
     ],
     "projectsEn": [
+      {
+        "title": "Asteroids",
+        "category": "Hypercasual arcade game made in Unity, now available on the Google Play Store! The player controls their ship by tilting their phone and shoots by tapping the screen.",
+        "image": "asteroids.png",
+        "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
+      },
       {
         "title": "Papumba",
         "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
