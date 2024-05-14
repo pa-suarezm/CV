@@ -59,50 +59,56 @@
         "description":"I took this course while I was working at Imagine Apps as a Junior Fullstack Dev in order to prepare myself for my next role in the company (Ssr. Fullstack Dev) where I had responsabilities geared towards team and tech leadership."
       }
     ],
-    "workEs":[
-      {
-        "company": "BW Studios",
-        "title": "Desarrollador Backend Unity",
-        "years": "Abril 2022 - actualidad",
-        "description": "Actualmente trabajo en el equipo encargado de las integraciones y requerimientos para Papumba. En este rol, he tenido que desarrollar nuevas funciones cloud desplegadas en Firebase, integrarlas y desarrollarlas en la app de Papumba desde Unity, y comunicar a nuestros clientes en Papumba sobre nuestros avances y negociar cuáles deben ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
-      },
-      {
-        "company": "Imagine Apps",
-        "title": "Desarrollador Fullstack Semisenior",
-        "years": "Diciembre 2021 - Abril 2022",
-        "description": "Desarrollé, probé, ajusté diseños, e iteré sobre el proyecto Feat. En este cargo tuve un rol importante de liderazgo en mi equipo de desarrollo el cual se venía cultivando desde mi anterior cargo como Desarrollador Jr. También asistí, aconsejé, y guié a compañeros nuevos en la empresa para que así se familiarizaran con los procesos internos de desarrollo así como con dudas más técnicas de sus propios proyectos."
-      },
-      {
-        "company": "Imagine Apps",
-        "title": "Desarrollador Fullstack Junior",
-        "years": "Diciembre 2020 - Diciembre 2021",
-        "description": "Diseñé, desarrollé, probé, e iteré sobre el proyecto Simulador de consultas en conjunto con el departamento de medicina de la Universidad de Los Andes; estuve a cargo del diseño del sistema y su desarrollo completo desde el primer día. Este proyecto tiene un alcance de más de 800 estudiantes de pregrado y 250 profesores del departamento de medicina. Asimismo, diseñé, desarrollé, probé, e iteré sobre el proyecto Feat; uno de los proyectos de mayor complejidad en Imagine Apps en el cual fui asignado como desarrollador principal."
-      },
-      {
-        "company":"Universidad de los Andes",
-        "title":"Monitor",
-        "years":"Semestres 2017-2, 2018-1, 2020-1, 2020-2",
-        "description":"Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."  
-      },
-      {
-        "company": "Universidad de los Andes",
-        "title": "Tutor de álgebra y cálculo",
-        "years": "Semestres 2018-2, 2019-1, 2019-2",
-        "description": "Asistí a estudiantes con dudas y problemas sobre cálculo diferencial, integral y vectorial, y álgebra lineal en el centro de apoyo de ciencias de la universidad durante sesiones que podían ser personales, grupales (de hasta 5 estudiantes), o como una clase completa de 30 a 40 estudiantes."
-      },
-      {
-        "company": "Universidad de los Andes",
-        "title": "Tutor de programación",
-        "years": "Semestre 2019-1",
-        "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
-      }
+    "workEs": [
+        {
+            "company": "BW Studios",
+            "title": "Desarrollador Backend Unity",
+            "years": "Abril 2022 - Septiembre 2022",
+            "description": "Mi equipo estuvo encargado de las integraciones y requerimientos para Papumba. En este rol, desarrollé nuevas funciones Cloud desplegadas en Firebase, y las integré y desarrollé en la app de Papumba desde Unity, y comuniqué a nuestros clientes en Papumba sobre nuestros avances y negocié cuáles debían ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
+        },
+        {
+            "company": "BW Studios",
+            "title": "Desarrollador Backend Unity",
+            "years": "Abril 2022 - Septiembre 2022",
+            "description": "Mi equipo estuvo encargado de las integraciones y requerimientos para Papumba. En este rol, desarrollé nuevas funciones Cloud desplegadas en Firebase, y las integré y desarrollé en la app de Papumba desde Unity, y comuniqué a nuestros clientes en Papumba sobre nuestros avances y negocié cuáles debían ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
+        },
+        {
+            "company": "Imagine Apps",
+            "title": "Desarrollador Fullstack Semisenior",
+            "years": "Diciembre 2021 - Abril 2022",
+            "description": "Desarrollé, probé, ajusté diseños, e iteré sobre el proyecto Feat. En este cargo tuve un rol importante de liderazgo en mi equipo de desarrollo el cual se venía cultivando desde mi anterior cargo como Desarrollador Jr. También asistí, aconsejé, y guié a compañeros nuevos en la empresa para que así se familiarizaran con los procesos internos de desarrollo así como con dudas más técnicas de sus propios proyectos."
+        },
+        {
+            "company": "Imagine Apps",
+            "title": "Desarrollador Fullstack Junior",
+            "years": "Diciembre 2020 - Diciembre 2021",
+            "description": "Diseñé, desarrollé, probé, e iteré sobre el proyecto Simulador de consultas en conjunto con el departamento de medicina de la Universidad de Los Andes; estuve a cargo del diseño del sistema y su desarrollo completo desde el primer día. Este proyecto tiene un alcance de más de 800 estudiantes de pregrado y 250 profesores del departamento de medicina. Asimismo, diseñé, desarrollé, probé, e iteré sobre el proyecto Feat; uno de los proyectos de mayor complejidad en Imagine Apps en el cual fui asignado como desarrollador principal."
+        },
+        {
+            "company": "Universidad de los Andes",
+            "title": "Monitor",
+            "years": "Semestres 2017-2, 2018-1, 2020-1, 2020-2",
+            "description": "Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."
+        },
+        {
+            "company": "Universidad de los Andes",
+            "title": "Tutor de álgebra y cálculo",
+            "years": "Semestres 2018-2, 2019-1, 2019-2",
+            "description": "Asistí a estudiantes con dudas y problemas sobre cálculo diferencial, integral y vectorial, y álgebra lineal en el centro de apoyo de ciencias de la universidad durante sesiones que podían ser personales, grupales (de hasta 5 estudiantes), o como una clase completa de 30 a 40 estudiantes."
+        },
+        {
+            "company": "Universidad de los Andes",
+            "title": "Tutor de programación",
+            "years": "Semestre 2019-1",
+            "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
+        }
     ],
     "workEn":[
       {
         "company": "BW Studios",
         "title": "Backend Unity Developer",
-        "years": "April 2022 (current role)",
-        "description": "I'm currently working on a team dedicated to integrating new functionalities for Papumba. In this role, I've had to create new cloud functions and deploy them on Firebase, and also integrate and develop them within the app itself in Unity. I've also had to constantly communicate with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
+        "years": "April 2022 - September 2022",
+        "description": "My team was dedicated to integrating new functionalities for Papumba. In this role, I created new Cloud functions and deployed them to Firebase, and I also integrated and developed them within the app itself in Unity. I also communicated on a daily basis with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
       },
       {
         "company": "Imagine Apps",
@@ -138,19 +144,19 @@
     "skills":[
       {
         "name":"Unity/C#",
-        "level":"80%"
+        "level":"95%"
       },
       {
         "name":"Unreal/Blueprint/C++",
-        "level":"25%"
+        "level":"20%"
       },
       {
         "name": "GameMaker Studio 2",
-        "level":"30%"
+        "level":"25%"
       },
       {
         "name":"Git",
-        "level":"85%"
+        "level":"90%"
       },
       {
         "name":"HTML/CSS, Bootstrap",
@@ -175,15 +181,14 @@
       {
         "name": "UI/UX",
         "level": "50%"
-        
       }
     ]
   },
   "portfolio":{
     "projectsEs": [
       {
-        "title": "BuffZ and NerfZ",
-        "category": "Twin-stick arcade zombie shooter hecho en Unity, pronto disponible en Steam y la Google Play Store. Cada pocos segundos el juegador o sus enemigos son fortalecidos o debilitados.",
+        "title": "BuffZ",
+        "category": "Twin-stick arcade zombie shooter hecho en Unity, pronto disponible en Steam y la Google Play Store. Cada pocos segundos el jugador o sus enemigos son fortalecidos o debilitados.",
         "image": "buffz-and-nerfz.png",
         "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
       },
@@ -198,12 +203,6 @@
         "category": "App para iOS y Android hecha en Unity donde niños de 2 a 7 años gozan de juegos, libros, videos, y demás recursos que les permitan desarrollarse y aprender.",
         "image": "papumba.png",
         "url": "https://www.papumba.com/"
-      },
-      {
-        "title": "Feat",
-        "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
-        "image": "feat.png",
-        "url": "https://www.instagram.com/feat.b4b/"
       },
       {
         "title":"Simulador de consultas",
@@ -240,18 +239,12 @@
         "category":"Página web personal hecha en React. Tomé la plantilla creada por Tim Baker y ajusté el código a mi gusto sin comprometer el diseño original.",
         "image":"personal-website.png",
         "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
-      },
-      {
-        "title":"Secret Santa",
-        "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
-        "image":"secret-santa.png",
-        "url":"https://github.com/pa-suarezm/SecretSanta.git"
       }
     ],
     "projectsEn": [
       {
-        "title": "BuffZ and NerfZ",
-        "category": "Twin-stick arcade zombie shooter made in Unity, soon to be available on Steam and the Google Play Store. Every couple of seconds either the player or their enemies get buffed or nerfed.",
+        "title": "BuffZ",
+        "category": "Twin-stick arcade zombie shooter made in Unity, soon to be available on Steam and the Google Play Store. Every couple of seconds either the player or the enemies get buffed or nerfed.",
         "image": "buffz-and-nerfz.png",
         "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
       },
@@ -266,13 +259,7 @@
         "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
         "image": "papumba.png",
         "url": "https://www.papumba.com/"
-      },
-      {
-        "title": "Feat",
-        "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
-        "image": "feat.png",
-        "url": "https://www.instagram.com/feat.b4b/"
-      },
+      }
       {
         "title":"Consultation Simulator",
         "category":"Serious game made so that medicine students could practice consultations with virtual patients programmed by their teachers.",
@@ -308,12 +295,6 @@
         "category":"Website made using React. I took the templated designed by Tim Baker and adjusted the code as I saw fit without compromising the original design.",
         "image":"personal-website.png",
         "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
-      },
-      {
-        "title":"Secret Santa",
-        "category":"Java desktop application made for a game of Secret Santa in order to assign and notify the pairs via e-mail.",
-        "image":"secret-santa.png",
-        "url":"https://github.com/pa-suarezm/SecretSanta.git"
       }
     ]
   }
