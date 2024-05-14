@@ -35,8 +35,8 @@
     ],
     "educationEn":[
       {
-        "school":"Universidad de los Andes - Undergraduate degree",
-        "degree":"Systems and Computational Engineering",
+        "school":"Universidad de los Andes",
+        "degree":"BSc. Systems and Computational Engineering",
         "graduated":"October 2021",
         "description":"This was the best experience of my life. Not only was I able to gather technical and theoretical knowledge and experience in systems and computation, but I also learned how to better work with my teammates and to improve my communication skills (both in writting and speaking) in Spanish and English."
       },
@@ -259,7 +259,7 @@
         "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
         "image": "papumba.png",
         "url": "https://www.papumba.com/"
-      }
+      },
       {
         "title":"Consultation Simulator",
         "category":"Serious game made so that medicine students could practice consultations with virtual patients programmed by their teachers.",
